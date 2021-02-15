@@ -93,7 +93,6 @@ const skillsSection = {
 };
 
 
-
 const educationInfo = {
   display: true, 
   schools: [
@@ -130,7 +129,7 @@ const educationInfo = {
 
 
 
-const techStack = {
+const techStack = {                                 
   viewSkillBars: true, 
   experience: [
     {
