@@ -216,9 +216,25 @@ const bigProjects = {
       ],
     },
     
+      {
+      image: require('./assets/images/olxLogo.png'),
+      projectName: "Olx Buy and Sell for free",
+      footerLink: [
+        {
+          name: 'Visit Website',
+          url:
+            'https://olx-clone-syed-muzammil.web.app/',
+        },
+      ],
+    },
+    
   ],
   display: true, 
+
 };
+
+
+
 
 
 const achievementSection = {
